@@ -5,7 +5,7 @@ This is the official repository of the following paper:
 **Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution (LINF)**<br>
 [Jie-En Yao*](https://scholar.google.com/citations?user=4mk_dZwAAAAJ&hl=zh-TW), [Li-Yuan Tsao*](https://liyuantsao.github.io/), [Yi-Chen Lo](https://scholar.google.com/citations?user=EPYQ48sAAAAJ&hl=zh-TW), [Roy Tseng](https://scholar.google.com/citations?user=uKgYlYYAAAAJ&hl=zh-TW), [Chia-Che Chang](https://scholar.google.com/citations?user=FK1RcpoAAAAJ&hl=zh-TW), [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=zh-TW)
 
-[[arxiv](https://arxiv.org/abs/2303.05156)] [Project page (soon)] [Video (soon)]
+[[arxiv](https://arxiv.org/abs/2303.05156)] [[Video](https://www.youtube.com/watch?v=kB2sm_k8P6I)]
 
 If you are interested in our work, **you can access [ElsaLab](http://elsalab.ai/) for more and feel free to contact us.**
 
